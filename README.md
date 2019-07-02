@@ -22,27 +22,27 @@ By-Step Guide to Learning Java Programming </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(15).pdf" style="text-decoration:none;">The Well-Grounded Java Developer</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(16).pdf" style="text-decoration:none;">Java in a Nutshell</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(17).rar" style="text-decoration:none;">Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(18).pdf" style="text-decoration:none;">Inside the C++ Object Model</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(17).pdf" style="text-decoration:none;">Java Generics and Collections</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(18).pdf" style="text-decoration:none;">Spring in Action</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(19).pdf" style="text-decoration:none;">Sams Teach Yourself C++ in 21 Days</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(19).pdf" style="text-decoration:none;">Think Java: How to Think Like a Computer Scientist</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(20).pdf" style="text-decoration:none;">The Design and Evolution of C++</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(21).pdf" style="text-decoration:none;">Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(20).pdf" style="text-decoration:none;">Thinking in Java</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(21).pdf" style="text-decoration:none;">Spring Microservices in Action</a></b></li>
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(22).pdf" style="text-decoration:none;">Effective C++</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(22).pdf" style="text-decoration:none;">The Elements of Java Style</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(23).pdf" style="text-decoration:none;">C++ Templates: The Complete Guide</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(24).pdf" style="text-decoration:none;">C++ Concurrency in Action</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(23).pdf" style="text-decoration:none;">Beginning Programming with Java For Dummies</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(24).pdf" style="text-decoration:none;">Effective Java</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(25).pdf" style="text-decoration:none;">C++ Programming: From Problem Analysis to Program Design</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(25).pdf" style="text-decoration:none;">Java For Dummies</a></b></li>
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(26).pdf" style="text-decoration:none;">C++ Primer Plus</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(26).pdf" style="text-decoration:none;">Java Network Programming</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(27).pdf" style="text-decoration:none;">C++ Coding Standards</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(28).pdf" style="text-decoration:none;">Optimized C++</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(27).pdf" style="text-decoration:none;">Java Puzzlers: Traps, Pitfalls, and Corner Cases</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(28).pdf" style="text-decoration:none;">Java SE 8 for the Really Impatient</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(29).pdf" style="text-decoration:none;">More Exceptional C++</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(29).pdf" style="text-decoration:none;">Java Threads</a></b></li>
 
 
 
