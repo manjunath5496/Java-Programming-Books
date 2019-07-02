@@ -44,8 +44,21 @@ By-Step Guide to Learning Java Programming </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(29).pdf" style="text-decoration:none;">Java Threads</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(30).pdf" style="text-decoration:none;">The Java Virtual Machine Specification (Java SE 8 Edition)</a></b></li>
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(31).pdf" style="text-decoration:none;">Murach's Beginning Java 2</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(32).pdf" style="text-decoration:none;">Java Performance: The Definitive Guide</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(33).pdf" style="text-decoration:none;">Concurrent Programming in Java: Design Principles and Patterns</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(34).pdf" style="text-decoration:none;">Java Concurrency In Practice </a></b></li>
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(35).pdf" style="text-decoration:none;">High-Performance Java Persistence</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(36).pdf" style="text-decoration:none;">Java: How To Program</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(37).pdf" style="text-decoration:none;">Teach Yourself JAVA in 21 Days</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/java(38).pdf" style="text-decoration:none;">Java 8 Lambdas </a></b></li>
 
 
 
