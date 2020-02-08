@@ -62,6 +62,7 @@
     
 </ul>
 </li>
+<li class="toclevel-3 tocsection-26"><a href="#Papers"><span class="toctext">Papers</span></a></li>
 <li class="toclevel-3 tocsection-26"><a href="#Books"><span class="toctext">Books</span></a></li>
 </ul>
 
@@ -350,10 +351,21 @@ public class FibCalculator extends Fibonacci implements Calculator {
 <p>Android does not provide the full Java SE standard library, although the Android SDK does include an independent implementation of a large subset of it. It supports Java&nbsp;6 and some Java&nbsp;7 features, offering an implementation compatible with the standard library (<a title="Apache Harmony" href="https://en.wikipedia.org/wiki/Apache_Harmony">Apache Harmony</a>).</p>
 <h4><span id="Controversy" class="mw-headline">Controversy</span></h4>
 <p>The use of Java-related technology in Android led to a legal dispute between Oracle and Google. On May 7, 2012, a San Francisco jury found that if APIs could be copyrighted, then Google had infringed Oracle's copyrights by the use of Java in Android devices. District Judge&nbsp;<a title="William Haskell Alsup" href="https://en.wikipedia.org/wiki/William_Haskell_Alsup">William Haskell Alsup</a>&nbsp;ruled on May 31, 2012, that APIs cannot be copyrighted,&nbsp;but this was reversed by the United States Court of Appeals for the Federal Circuit in May 2014.&nbsp;On May 26, 2016, the district court decided in favor of Google, ruling the copyright infringement of the Java API in Android constitutes fair use.&nbsp;On March 2018, this ruling was overturned by the Appeals Court, which sent down the case of determining the damages to federal court in San Francisco.&nbsp;Google filed a petition for writ of certiorari with the&nbsp;<a title="Supreme Court of the United States" href="https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States">Supreme Court of the United States</a>&nbsp;in January 2019 to challenge the two rulings that were made by the Appeals Court towards Oracle's favor.</p>
+</br>
+<h2><span id="Books" class="mw-headline">Papers:</span></h2>
+
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/jsp(1).pdf" style="text-decoration:none;">The Java Language Environment </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/jsp(2).pdf" style="text-decoration:none;">The Feel of Java</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/jsp(3).pdf" style="text-decoration:none;">The Java Language Specification</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/jsp(4).pdf" style="text-decoration:none;">The Java Revolution: From Enterprise to Gaming</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/jsp(5).pdf" style="text-decoration:none;">History of the Java programming language</a></b></li>
+</ul>
+</br>
 
 
-
-<h2><span id="Books" class="mw-headline">Books</span></h2>
+<h2><span id="Books" class="mw-headline">Books:</span></h2>
 
 
 <ul>
