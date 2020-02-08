@@ -58,6 +58,8 @@
 <li class="toclevel-3 tocsection-26"><a href="#Controversy"><span class="toctext">Controversy</span></a></li>
 </ul>
 </li>
+    
+<li class="toclevel-3 tocsection-26"><a href="#Books"><span class="toctext">Books</span></a></li>    
 </ul>
 </li>
 </ul>
@@ -350,7 +352,7 @@ public class FibCalculator extends Fibonacci implements Calculator {
 
 
 
-
+<h2><span id="Books" class="mw-headline">Books</span></h2>
 
 
 <ul>
