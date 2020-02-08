@@ -59,9 +59,10 @@
 </ul>
 </li>
     
-<li class="toclevel-3 tocsection-26"><a href="#Books"><span class="toctext">Books</span></a></li>    
+    
 </ul>
 </li>
+<li class="toclevel-3 tocsection-26"><a href="#Books"><span class="toctext">Books</span></a></li>
 </ul>
 
 </br>
