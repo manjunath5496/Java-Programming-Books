@@ -182,12 +182,15 @@
 <p>The traditional&nbsp;<a class="mw-redirect" title="&quot;Hello, world!&quot; program" href="https://en.wikipedia.org/wiki/%22Hello,_world!%22_program">Hello world program</a>&nbsp;can be written in Java as:</p>
 <p>&nbsp;</p>
 <div class="mw-highlight mw-content-ltr" dir="ltr">
-<pre><span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorldApp</span> <span class="o">{</span>
-    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
-        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">"Hello World!"</span><span class="o">);</span> <span class="c1">// Prints the string to the console.</span>
-    <span class="o">}</span>
-<span class="o">}<br /></span>
-</pre>
+    
+```Java language
+public class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Prints the string to the console.
+    }
+}
+```
+
 </div>
 <p>Source files must be named after the public class they contain, appending the suffix&nbsp;<code>.java</code>, for example,&nbsp;<code>HelloWorldApp.java</code>. It must first be compiled into bytecode, using a&nbsp;<a title="Java compiler" href="https://en.wikipedia.org/wiki/Java_compiler">Java compiler</a>, producing a file with the&nbsp;<code>.class</code>&nbsp;suffix (<code>HelloWorldApp.class</code>, in this case). Only then can it be executed, or launched. The Java source file may only contain one public class, but it can contain multiple classes with a non-public access modifier and any number of public&nbsp;<a title="Inner class" href="https://en.wikipedia.org/wiki/Inner_class">inner classes</a>. When the source file contains multiple classes, it is necessary to make one class (introduced by the&nbsp;<code><strong>class</strong></code>&nbsp;keyword) public (preceded by the&nbsp;<code><strong>public</strong></code>&nbsp;keyword) and name the source file with that public class name.</p>
 <p>A class that is not declared public may be stored in any .java file. The compiler will generate a class file for each class defined in the source file. The name of the class file is the name of the class, with&nbsp;<em>.class</em>&nbsp;appended. For class file generation,&nbsp;<a title="Class (computer programming)" href="https://en.wikipedia.org/wiki/Class_(computer_programming)#Unnamed">anonymous classes</a>&nbsp;are treated as if their name were the concatenation of the name of their enclosing class, a&nbsp;<em>$</em>, and an integer.</p>
