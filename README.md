@@ -4,6 +4,63 @@
 
 </br>
 
+<h2><span id="History" class="mw-headline">History</span></h2>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="https://en.wikipedia.org/wiki/File:James_Gosling_2008.jpg"><img class="thumbimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/220px-James_Gosling_2008.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/330px-James_Gosling_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/440px-James_Gosling_2008.jpg 2x" alt="" width="220" height="221" data-file-width="1460" data-file-height="1469" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+<a title="James Gosling" href="https://en.wikipedia.org/wiki/James_Gosling">James Gosling</a>, the creator of Java, in 2008</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="https://en.wikipedia.org/wiki/File:Tiobeindex.png"><img class="thumbimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiobeindex.png/220px-Tiobeindex.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiobeindex.png/330px-Tiobeindex.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiobeindex.png/440px-Tiobeindex.png 2x" alt="" width="220" height="108" data-file-width="906" data-file-height="443" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+The&nbsp;<a title="TIOBE index" href="https://en.wikipedia.org/wiki/TIOBE_index">TIOBE</a>&nbsp;<a title="Measuring programming language popularity" href="https://en.wikipedia.org/wiki/Measuring_programming_language_popularity">programming language popularity index</a>&nbsp;graph from 2002 to 2018. Java is steadily on the top since mid-2015.</div>
+</div>
+</div>
+<p><a title="James Gosling" href="https://en.wikipedia.org/wiki/James_Gosling">James Gosling</a>, Mike Sheridan, and&nbsp;<a title="Patrick Naughton" href="https://en.wikipedia.org/wiki/Patrick_Naughton">Patrick Naughton</a>&nbsp;initiated the Java language project in June 1991.&nbsp;Java was originally designed for interactive television, but it was too advanced for the digital cable television industry at the time.<sup id="cite_ref-22" class="reference"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)#cite_note-22">[22]</a></sup>&nbsp;The language was initially called&nbsp;<em><a title="Oak (programming language)" href="https://en.wikipedia.org/wiki/Oak_(programming_language)">Oak</a></em>&nbsp;after an&nbsp;<a title="Oak" href="https://en.wikipedia.org/wiki/Oak">oak</a>&nbsp;tree that stood outside Gosling's office. Later the project went by the name&nbsp;<em>Green</em>&nbsp;and was finally renamed&nbsp;<em>Java</em>, from&nbsp;<a class="mw-redirect" title="Java coffee" href="https://en.wikipedia.org/wiki/Java_coffee">Java coffee</a>, the coffee from&nbsp;<a title="Indonesia" href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a>.&nbsp;Gosling designed Java with a&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>/<a title="C++" href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>-style syntax that system and application programmers would find familiar.</p>
+<p>Sun Microsystems released the first public implementation as Java&nbsp;1.0 in 1996.&nbsp;It promised&nbsp;<strong>Write Once, Run Anywhere</strong>&nbsp;(WORA) functionality, providing no-cost run-times on popular&nbsp;<a title="Computing platform" href="https://en.wikipedia.org/wiki/Computing_platform">platforms</a>. Fairly secure and featuring configurable security, it allowed network- and file-access restrictions. Major&nbsp;<a title="Web browser" href="https://en.wikipedia.org/wiki/Web_browser">web browsers</a>&nbsp;soon incorporated the ability to run&nbsp;<a title="Java applet" href="https://en.wikipedia.org/wiki/Java_applet">Java applets</a>&nbsp;within web pages, and Java quickly became popular. The Java&nbsp;1.0 compiler was re-written&nbsp;<a title="Bootstrapping (compilers)" href="https://en.wikipedia.org/wiki/Bootstrapping_(compilers)">in Java</a>&nbsp;by&nbsp;<a title="Arthur van Hoff" href="https://en.wikipedia.org/wiki/Arthur_van_Hoff">Arthur van Hoff</a>&nbsp;to comply strictly with the Java&nbsp;1.0 language specification.&nbsp;With the advent of Java&nbsp;2 (released initially as J2SE&nbsp;1.2 in December 1998&nbsp;&ndash; 1999), new versions had multiple configurations built for different types of platforms. J2EE included technologies and APIs for enterprise applications typically run in server environments, while J2ME featured APIs optimized for mobile applications. The desktop version was renamed J2SE. In 2006, for marketing purposes, Sun renamed new J2 versions as&nbsp;<em><a title="Java Platform, Enterprise Edition" href="https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition">Java EE</a></em>,&nbsp;<em><a title="Java Platform, Micro Edition" href="https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition">Java ME</a></em>, and&nbsp;<em><a title="Java Platform, Standard Edition" href="https://en.wikipedia.org/wiki/Java_Platform,_Standard_Edition">Java SE</a></em>, respectively.</p>
+<p>In 1997, Sun Microsystems approached the&nbsp;<a title="ISO/IEC JTC 1" href="https://en.wikipedia.org/wiki/ISO/IEC_JTC_1">ISO/IEC JTC 1</a>&nbsp;standards body and later the&nbsp;<a title="Ecma International" href="https://en.wikipedia.org/wiki/Ecma_International">Ecma International</a>&nbsp;to formalize Java, but it soon withdrew from the process. Java remains a&nbsp;<a title="De facto standard" href="https://en.wikipedia.org/wiki/De_facto_standard"><em>de facto</em>&nbsp;standard</a>, controlled through the&nbsp;<a title="Java Community Process" href="https://en.wikipedia.org/wiki/Java_Community_Process">Java Community Process</a>.<sup id="cite_ref-30" class="reference"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)#cite_note-30">[30]</a></sup>&nbsp;At one time, Sun made most of its Java implementations available without charge, despite their&nbsp;<a title="Proprietary software" href="https://en.wikipedia.org/wiki/Proprietary_software">proprietary software</a>&nbsp;status. Sun generated revenue from Java through the selling of licenses for specialized products such as the Java Enterprise System.</p>
+<p>On November 13, 2006, Sun released much of its Java virtual machine (JVM) as&nbsp;<a title="Free and open-source software" href="https://en.wikipedia.org/wiki/Free_and_open-source_software">free and open-source software</a>&nbsp;(FOSS), under the terms of the&nbsp;<a title="GNU General Public License" href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GNU General Public License</a>&nbsp;(GPL). On May 8, 2007, Sun finished the process, making all of its JVM's core code available under&nbsp;<a title="Free software" href="https://en.wikipedia.org/wiki/Free_software">free software</a>/open-source distribution terms, aside from a small portion of code to which Sun did not hold the copyright.</p>
+<p>Sun's vice-president Rich Green said that Sun's ideal role with regard to Java was as an&nbsp;<em>evangelist</em>.&nbsp;Following&nbsp;<a title="Oracle Corporation" href="https://en.wikipedia.org/wiki/Oracle_Corporation">Oracle Corporation</a>'s acquisition of Sun Microsystems in 2009&ndash;10, Oracle has described itself as the steward of Java technology with a relentless commitment to fostering a community of participation and transparency.&nbsp;This did not prevent Oracle from filing a lawsuit against Google shortly after that for using Java inside the&nbsp;<a class="mw-redirect" title="Android SDK" href="https://en.wikipedia.org/wiki/Android_SDK">Android SDK</a>&nbsp;(see the&nbsp;<em><a href="https://en.wikipedia.org/wiki/Java_(programming_language)#Android">Android</a></em>&nbsp;section). Java software runs on everything from laptops to&nbsp;<a title="Data center" href="https://en.wikipedia.org/wiki/Data_center">data centers</a>,&nbsp;<a title="Video game console" href="https://en.wikipedia.org/wiki/Video_game_console">game consoles</a>&nbsp;to scientific&nbsp;<a title="Supercomputer" href="https://en.wikipedia.org/wiki/Supercomputer">supercomputers</a>.&nbsp;On April 2, 2010, James Gosling resigned from&nbsp;<a title="Oracle Corporation" href="https://en.wikipedia.org/wiki/Oracle_Corporation">Oracle</a>.</p>
+<p>In January 2016, Oracle announced that Java run-time environments based on JDK 9 will discontinue the browser plugin.</p>
+<h3><span id="Principles" class="mw-headline">Principles</span></h3>
+<p>There were five primary goals in the creation of the Java language:</p>
+<blockquote>
+<ol>
+<li>It must be simple, object-oriented, and familiar.</li>
+<li>It must be robust and secure.</li>
+<li>It must be architecture-neutral and portable.</li>
+<li>It must execute with high performance.</li>
+<li>It must be interpreted, threaded, and dynamic.</li>
+</ol>
+</blockquote>
+<h3><span id="Versions" class="mw-headline">Versions</span></h3>
+<div class="hatnote navigation-not-searchable">&nbsp;</div>
+<p>As of March&nbsp;2019, Java&nbsp;8 is supported; and both Java&nbsp;8 and 11 as Long Term Support (LTS) versions. Major release versions of Java, along with their release dates:</p>
+<ul>
+<li>JDK 1.0 (January 23, 1996)</li>
+<li>JDK 1.1 (February 19, 1996)</li>
+<li>J2SE 1.2 (December 8, 1998)</li>
+<li>J2SE 1.3 (May 8, 2000)</li>
+<li>J2SE 1.4 (February 6, 2002)</li>
+<li>J2SE 5.0 (September 30, 2004)</li>
+<li>Java SE 6 (December 11, 2006)</li>
+<li>Java SE 7 (July 28, 2011)</li>
+<li>Java SE 8 (March 18, 2014)</li>
+<li>Java SE 9 (September 21, 2017)</li>
+<li>Java SE 10 (March 20, 2018)</li>
+<li>Java SE 11 (September 25, 2018)</li>
+<li>Java SE 12 (March 19, 2019)</li>
+<li>Java SE 13 (September 17, 2019)</li>
+</ul>
+<p>&nbsp;</p>
+
+
+
 
 
 <div class="toctitle" dir="ltr" lang="en"></div>
