@@ -7,7 +7,7 @@
 <h2><span id="History" class="mw-headline">History</span></h2>
 <div class="hatnote navigation-not-searchable">&nbsp;</div>
 <div class="thumb tright">
-<div class="thumbinner"><a class="image" href="https://en.wikipedia.org/wiki/File:James_Gosling_2008.jpg"><img class="thumbimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/220px-James_Gosling_2008.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/330px-James_Gosling_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/440px-James_Gosling_2008.jpg 2x" alt="" width="220" height="221" data-file-width="1460" data-file-height="1469" /></a>
+<div class="thumbinner"><a class="image" href="jos1.jpg"><img class="thumbimage" src="jos1.jpg" srcset="jos1.jpg" alt="" width="220" height="221" data-file-width="1460" data-file-height="1469" /></a>
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
 <a title="James Gosling" href="https://en.wikipedia.org/wiki/James_Gosling">James Gosling</a>, the creator of Java, in 2008</div>
@@ -15,7 +15,7 @@
 </div>
 </div>
 <div class="thumb tright">
-<div class="thumbinner"><a class="image" href="https://en.wikipedia.org/wiki/File:Tiobeindex.png"><img class="thumbimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiobeindex.png/220px-Tiobeindex.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiobeindex.png/330px-Tiobeindex.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tiobeindex.png/440px-Tiobeindex.png 2x" alt="" width="220" height="108" data-file-width="906" data-file-height="443" /></a>
+<div class="thumbinner"><a class="image" href="jos2.png"><img class="thumbimage" src="jos2.png" srcset="jos2.png" alt="" width="220" height="108" data-file-width="906" data-file-height="443" /></a>
 <div class="thumbcaption">
 <div class="magnify">&nbsp;</div>
 The&nbsp;<a title="TIOBE index" href="https://en.wikipedia.org/wiki/TIOBE_index">TIOBE</a>&nbsp;<a title="Measuring programming language popularity" href="https://en.wikipedia.org/wiki/Measuring_programming_language_popularity">programming language popularity index</a>&nbsp;graph from 2002 to 2018. Java is steadily on the top since mid-2015.</div>
