@@ -205,54 +205,59 @@ public class HelloWorldApp {
 <h3><span id="Example_with_methods" class="mw-headline">Example with methods</span></h3>
 <p>&nbsp;</p>
 <div class="mw-highlight mw-content-ltr" dir="ltr">
-<pre><span class="c1">// This is an example of a single line comment using two slashes</span>
+    
+    
+```Java language
+// This is an example of a single line comment using two slashes
 
-<span class="cm">/*</span>
-<span class="cm"> * This is an example of a multiple line comment using the slash and asterisk.</span>
-<span class="cm"> * This type of comment can be used to hold a lot of information or deactivate</span>
-<span class="cm"> * code, but it is very important to remember to close the comment.</span>
-<span class="cm"> */</span>
+/*
+ * This is an example of a multiple line comment using the slash and asterisk.
+ * This type of comment can be used to hold a lot of information or deactivate
+ * code, but it is very important to remember to close the comment.
+ */
 
-<span class="kn">package</span> <span class="nn">fibsandlies</span><span class="o">;</span>
+package fibsandlies;
 
-<span class="kn">import</span> <span class="nn">java.util.HashMap</span><span class="o">;</span>
+import java.util.HashMap;
 
-<span class="cm">/**</span>
-<span class="cm"> * This is an example of a Javadoc comment; Javadoc can compile documentation</span>
-<span class="cm"> * from this text. Javadoc comments must immediately precede the class, method,</span>
-<span class="cm"> * or field being documented.</span>
-<span class="cm"> */</span>
-<span class="kd">public</span> <span class="kd">class</span> <span class="nc">FibCalculator</span> <span class="kd">extends</span> <span class="n">Fibonacci</span> <span class="kd">implements</span> <span class="n">Calculator</span> <span class="o">{</span>
-    <span class="kd">private</span> <span class="kd">static</span> <span class="n">Map</span><span class="o">&lt;</span><span class="n">Integer</span><span class="o">,</span> <span class="n">Integer</span><span class="o">&gt;</span> <span class="n">memoized</span> <span class="o">=</span> <span class="k">new</span> <span class="n">HashMap</span><span class="o">&lt;&gt;();</span>
+/**
+ * This is an example of a Javadoc comment; Javadoc can compile documentation
+ * from this text. Javadoc comments must immediately precede the class, method,
+ * or field being documented.
+ */
+public class FibCalculator extends Fibonacci implements Calculator {
+    private static Map<Integer, Integer> memoized = new HashMap<>();
 
-    <span class="cm">/*</span>
-<span class="cm">     * The main method written as follows is used by the JVM as a starting point</span>
-<span class="cm">     * for the program.</span>
-<span class="cm">     */</span>
-    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
-        <span class="n">memoized</span><span class="o">.</span><span class="na">put</span><span class="o">(</span><span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">);</span>
-        <span class="n">memoized</span><span class="o">.</span><span class="na">put</span><span class="o">(</span><span class="mi">2</span><span class="o">,</span> <span class="mi">1</span><span class="o">);</span>
-        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">fibonacci</span><span class="o">(</span><span class="mi">12</span><span class="o">));</span> <span class="c1">// Get the 12th Fibonacci number and print to console</span>
-    <span class="o">}</span>
+    /*
+     * The main method written as follows is used by the JVM as a starting point
+     * for the program.
+     */
+    public static void main(String[] args) {
+        memoized.put(1, 1);
+        memoized.put(2, 1);
+        System.out.println(fibonacci(12)); // Get the 12th Fibonacci number and print to console
+    }
 
-    <span class="cm">/**</span>
-<span class="cm">     * An example of a method written in Java, wrapped in a class.</span>
-<span class="cm">     * Given a non-negative number FIBINDEX, returns</span>
-<span class="cm">     * the Nth Fibonacci number, where N equals FIBINDEX.</span>
-<span class="cm">     * </span>
-<span class="cm">     * @param fibIndex The index of the Fibonacci number</span>
-<span class="cm">     * @return the Fibonacci number</span>
-<span class="cm">     */</span>
-    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">int</span> <span class="nf">fibonacci</span><span class="o">(</span><span class="kt">int</span> <span class="n">fibIndex</span><span class="o">)</span> <span class="o">{</span>
-        <span class="k">if</span> <span class="o">(</span><span class="n">memoized</span><span class="o">.</span><span class="na">containsKey</span><span class="o">(</span><span class="n">fibIndex</span><span class="o">))</span> <span class="k">return</span> <span class="n">memoized</span><span class="o">.</span><span class="na">get</span><span class="o">(</span><span class="n">fibIndex</span><span class="o">);</span>
-        <span class="k">else</span> <span class="o">{</span>
-            <span class="kt">int</span> <span class="n">answer</span> <span class="o">=</span> <span class="n">fibonacci</span><span class="o">(</span><span class="n">fibIndex</span> <span class="o">-</span> <span class="mi">1</span><span class="o">)</span> <span class="o">+</span> <span class="n">fibonacci</span><span class="o">(</span><span class="n">fibIndex</span> <span class="o">-</span> <span class="mi">2</span><span class="o">);</span>
-            <span class="n">memoized</span><span class="o">.</span><span class="na">put</span><span class="o">(</span><span class="n">fibIndex</span><span class="o">,</span> <span class="n">answer</span><span class="o">);</span>
-            <span class="k">return</span> <span class="n">answer</span><span class="o">;</span>
-        <span class="o">}</span>
-    <span class="o">}</span>
-<span class="o">}</span>
-</pre>
+    /**
+     * An example of a method written in Java, wrapped in a class.
+     * Given a non-negative number FIBINDEX, returns
+     * the Nth Fibonacci number, where N equals FIBINDEX.
+     * 
+     * @param fibIndex The index of the Fibonacci number
+     * @return the Fibonacci number
+     */
+    public static int fibonacci(int fibIndex) {
+        if (memoized.containsKey(fibIndex)) return memoized.get(fibIndex);
+        else {
+            int answer = fibonacci(fibIndex - 1) + fibonacci(fibIndex - 2);
+            memoized.put(fibIndex, answer);
+            return answer;
+        }
+    }
+}
+```
+
+
 </div>
 <h2><span id="Special_classes" class="mw-headline">Special classes</span></h2>
 <p>&nbsp;</p>
