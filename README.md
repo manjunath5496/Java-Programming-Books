@@ -2,13 +2,64 @@
 <p>Java was originally developed by&nbsp;<a title="James Gosling" href="https://en.wikipedia.org/wiki/James_Gosling">James Gosling</a>&nbsp;at&nbsp;<a title="Sun Microsystems" href="https://en.wikipedia.org/wiki/Sun_Microsystems">Sun Microsystems</a>&nbsp;(<a title="Sun acquisition by Oracle" href="https://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle">which has since been acquired by Oracle</a>) and released in 1995 as a core component of Sun Microsystems'&nbsp;<a title="Java (software platform)" href="https://en.wikipedia.org/wiki/Java_(software_platform)">Java platform</a>. The original and&nbsp;<a title="Reference implementation" href="https://en.wikipedia.org/wiki/Reference_implementation">reference implementation</a>&nbsp;Java&nbsp;<a title="Compiler" href="https://en.wikipedia.org/wiki/Compiler">compilers</a>, virtual machines, and&nbsp;<a title="Library (computing)" href="https://en.wikipedia.org/wiki/Library_(computing)">class libraries</a>&nbsp;were originally released by Sun under&nbsp;<a class="mw-redirect" title="Proprietary license" href="https://en.wikipedia.org/wiki/Proprietary_license">proprietary licenses</a>. As of May 2007, in compliance with the specifications of the&nbsp;<a title="Java Community Process" href="https://en.wikipedia.org/wiki/Java_Community_Process">Java Community Process</a>, Sun had&nbsp;<a title="Software relicensing" href="https://en.wikipedia.org/wiki/Software_relicensing">relicensed</a>&nbsp;most of its Java technologies under the&nbsp;<a title="GNU General Public License" href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GNU General Public License</a>. Meanwhile, others have developed alternative implementations of these Sun technologies, such as the&nbsp;<a title="GNU Compiler for Java" href="https://en.wikipedia.org/wiki/GNU_Compiler_for_Java">GNU Compiler for Java</a>&nbsp;(bytecode compiler),&nbsp;<a title="GNU Classpath" href="https://en.wikipedia.org/wiki/GNU_Classpath">GNU Classpath</a>&nbsp;(standard libraries), and&nbsp;<a title="IcedTea" href="https://en.wikipedia.org/wiki/IcedTea">IcedTea</a>-Web (browser plugin for applets).</p>
 <p>The latest versions are&nbsp;<a title="Java version history" href="https://en.wikipedia.org/wiki/Java_version_history">Java&nbsp;13</a>, released in September 2019, and Java&nbsp;11, a currently supported&nbsp;<a title="Long-term support" href="https://en.wikipedia.org/wiki/Long-term_support">long-term support</a>&nbsp;(LTS) version, released on September 25, 2018;&nbsp;<a title="Oracle Corporation" href="https://en.wikipedia.org/wiki/Oracle_Corporation">Oracle</a>&nbsp;released for the&nbsp;<a title="Legacy system" href="https://en.wikipedia.org/wiki/Legacy_system">legacy</a>&nbsp;Java&nbsp;8&nbsp;LTS the last free public update in January 2019 for commercial use, while it will otherwise still support Java&nbsp;8 with public updates for personal use up to at least December 2020. Oracle (and others) highly recommend uninstalling older versions of Java because of serious risks due to unresolved security issues.&nbsp;Since Java&nbsp;9 (and 10 and 12) is no longer supported, Oracle advises its users to immediately transition to the latest version (currently Java 13) or an LTS release.</p>
 
+</br>
 
 
 
+<div class="toctitle" dir="ltr" lang="en"></div>
+<h2>Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Principles"><span class="toctext">Principles</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Versions"><span class="toctext">Versions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Editions"><span class="toctext">Editions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Execution_system"><span class="toctext">Execution system</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Java_JVM_and_Bytecode"><span class="toctext">Java JVM and Bytecode</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Performance"><span class="toctext">Performance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Non-JVM"><span class="toctext">Non-JVM</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Automatic_memory_management"><span class="toctext">Automatic memory management</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Syntax"><span class="toctext">Syntax</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Hello_world_example"><span class="toctext">Hello world example</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Example_with_methods"><span class="toctext">Example with methods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Special_classes"><span class="tocnumber">5</span><span class="toctext">Special classes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Applet"><span class="toctext">Applet</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Servlet"><span class="toctext">Servlet</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#JavaServer_Pages"><span class="toctext">JavaServer Pages</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Swing_application"><span class="toctext">Swing application</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#JavaFX_application"><span class="toctext">JavaFX application</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Generics"><span class="toctext">Generics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Criticism"><span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Class_libraries"><span class="toctext">Class libraries</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Documentation"><span class="toctext">Documentation</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Implementations"><span class="toctext">Implementations</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Use_outside_the_Java_platform"><span class="toctext">Use outside the Java platform</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#Android"><span class="toctext">Android</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#Controversy"><span class="toctext">Controversy</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
-
-
-
+</br>
 
 
 
